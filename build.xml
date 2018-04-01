@@ -10,7 +10,7 @@
 <property name="sonar.projectname" value="exampel of sonarqube"/>
 <property name="sonar.projectversion" value="1.0"/>
 <property name="sonar.language" value= "java"/>						
-<property name="sonar.sources"value="./src/calc"/>
+<property name="sonar.sources" value="./src/calc"/>
 <property name="sonar.java.binaries" value="./target"/>					
 	  
 <target name="compile">
