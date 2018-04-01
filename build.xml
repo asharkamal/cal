@@ -1,4 +1,4 @@
-<project default="all"."xmlns:sonar="ant:org.sonar.ant">
+<project default="all" besedir="." xmlns:sonar="ant:org.sonar.ant">
 <property name="src.java.dir" location="./src/calc"/>
 <property name="result.dir" location="./target"/>
 <property name="result.javaclasses.dir" location="${result.dir}/classes"/>
